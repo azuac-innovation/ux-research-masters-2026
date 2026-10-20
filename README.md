@@ -26,5 +26,3 @@ This is research community repo. Student can answer the questions.
 -	Trenddə olan rəqəmsal alətlər üçün olan tətbiqlərini və moddellərini;
 -	İstifadəçilərin təcrübəsi araşdırılması sona qədər gedən prosesi nəzarətdə saxlamağı;
 -	İstifadəçilərin təcrübəsi araşdırılması hesabatın tərtib edilməsi və təqdim edilməsi. 
-<img width="468" height="389" alt="image" src="https://github.com/user-attachments/assets/701a8054-604b-456b-b48a-719978ae12fc" />
-
